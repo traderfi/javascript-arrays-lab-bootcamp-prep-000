@@ -42,7 +42,9 @@ function removeFirstKitten() {
 function removeLastKitten() {
     var de = kittens
     de.slice(0, de.length - 1)
-    return de}
+    return de
+
+  }
     //  var xe = kittens;
       //xe.pop();
     //  return xe;
